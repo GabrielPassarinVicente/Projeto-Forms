@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75BBA5FC-BA3E-4649-AD20-FEE9D5A266C7}|contasPessoais\\contasPessoais.csproj|c:\\users\\gabriel passarin\\source\\repos\\contaspessoais\\contaspessoais\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75BBA5FC-BA3E-4649-AD20-FEE9D5A266C7}|contasPessoais\\contasPessoais.csproj|solutionrelative:contaspessoais\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BBA5FC-BA3E-4649-AD20-FEE9D5A266C7}|contasPessoais\\contasPessoais.csproj|C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contaspessoais\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BBA5FC-BA3E-4649-AD20-FEE9D5A266C7}|contasPessoais\\contasPessoais.csproj|solutionrelative:contaspessoais\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BBA5FC-BA3E-4649-AD20-FEE9D5A266C7}|contasPessoais\\contasPessoais.csproj|C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contaspessoais\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75BBA5FC-BA3E-4649-AD20-FEE9D5A266C7}|contasPessoais\\contasPessoais.csproj|solutionrelative:contaspessoais\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BBA5FC-BA3E-4649-AD20-FEE9D5A266C7}|contasPessoais\\contasPessoais.csproj|C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contaspessoais\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BBA5FC-BA3E-4649-AD20-FEE9D5A266C7}|contasPessoais\\contasPessoais.csproj|solutionrelative:contaspessoais\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BBA5FC-BA3E-4649-AD20-FEE9D5A266C7}|contasPessoais\\contasPessoais.csproj|C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contaspessoais\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75BBA5FC-BA3E-4649-AD20-FEE9D5A266C7}|contasPessoais\\contasPessoais.csproj|solutionrelative:contaspessoais\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BBA5FC-BA3E-4649-AD20-FEE9D5A266C7}|contasPessoais\\contasPessoais.csproj|C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contaspessoais\\contaspessoais.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{75BBA5FC-BA3E-4649-AD20-FEE9D5A266C7}|contasPessoais\\contasPessoais.csproj|solutionrelative:contaspessoais\\contaspessoais.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BBA5FC-BA3E-4649-AD20-FEE9D5A266C7}|contasPessoais\\contasPessoais.csproj|C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contaspessoais\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BBA5FC-BA3E-4649-AD20-FEE9D5A266C7}|contasPessoais\\contasPessoais.csproj|solutionrelative:contaspessoais\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BBA5FC-BA3E-4649-AD20-FEE9D5A266C7}|contasPessoais\\contasPessoais.csproj|C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contaspessoais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BBA5FC-BA3E-4649-AD20-FEE9D5A266C7}|contasPessoais\\contasPessoais.csproj|solutionrelative:contaspessoais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BBA5FC-BA3E-4649-AD20-FEE9D5A266C7}|contasPessoais\\contasPessoais.csproj|C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contaspessoais\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BBA5FC-BA3E-4649-AD20-FEE9D5A266C7}|contasPessoais\\contasPessoais.csproj|solutionrelative:contaspessoais\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contasPessoais\\Login.cs",
+              "RelativeDocumentMoniker": "contasPessoais\\Login.cs",
+              "ToolTip": "C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contasPessoais\\Login.cs",
+              "RelativeToolTip": "contasPessoais\\Login.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T00:41:19.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contasPessoais\\Login.cs",
+              "RelativeDocumentMoniker": "contasPessoais\\Login.cs",
+              "ToolTip": "C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contasPessoais\\Login.cs [Projeto]",
+              "RelativeToolTip": "contasPessoais\\Login.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T00:38:00.868Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contasPessoais\\Program.cs",
+              "RelativeDocumentMoniker": "contasPessoais\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contasPessoais\\Program.cs",
+              "RelativeToolTip": "contasPessoais\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:06:02.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "home.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contasPessoais\\home.cs",
+              "RelativeDocumentMoniker": "contasPessoais\\home.cs",
+              "ToolTip": "C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contasPessoais\\home.cs",
+              "RelativeToolTip": "contasPessoais\\home.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAYwGMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:05:00.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contasPessoais\\Form1.cs",
+              "RelativeDocumentMoniker": "contasPessoais\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contasPessoais\\Form1.cs [Projeto]",
+              "RelativeToolTip": "contasPessoais\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T00:07:06.285Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contasPessoais\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "contasPessoais\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contasPessoais\\Login.Designer.cs",
+              "RelativeToolTip": "contasPessoais\\Login.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T00:46:56.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "contasPessoais",
+              "DocumentMoniker": "C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contasPessoais\\contasPessoais.csproj",
+              "RelativeDocumentMoniker": "contasPessoais\\contasPessoais.csproj",
+              "ToolTip": "C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contasPessoais\\contasPessoais.csproj",
+              "RelativeToolTip": "contasPessoais\\contasPessoais.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-11T01:00:45.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contasPessoais\\home.cs",
+              "RelativeDocumentMoniker": "contasPessoais\\home.cs",
+              "ToolTip": "C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contasPessoais\\home.cs [Projeto]",
+              "RelativeToolTip": "contasPessoais\\home.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:02:07.666Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contasPessoais\\Form1.cs",
+              "RelativeDocumentMoniker": "contasPessoais\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gabriel Passarin\\source\\repos\\contasPessoais\\contasPessoais\\Form1.cs",
+              "RelativeToolTip": "contasPessoais\\Form1.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAiwI4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T00:38:31.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
